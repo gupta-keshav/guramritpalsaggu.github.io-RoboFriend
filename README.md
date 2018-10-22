@@ -16,4 +16,6 @@ The robot contact info is taken from:
 https://jsonplaceholder.typicode.com/users
 
 Robot images have been generated using API:
-https://robohash.org/
+https://robohash.org/ and this api was easy to use.
+
+
